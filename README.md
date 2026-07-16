@@ -61,13 +61,19 @@ The project uses the **Students Performance Dataset**, which contains informatio
 
 ---
 
-## Visualizations
+## 📷 Project Visualizations
 
-- Average Score by Gender
-- Average Score by Parental Education
-- Lunch Type vs Average Score
+### Average Score by Gender
 
----
+![Gender Analysis](images/gender_analysis.png)
+
+### Parental Education vs Average Score
+
+![Parental Education](images/parental_education.png)
+
+### Lunch Type vs Average Score
+
+![Lunch Analysis](images/lunch_analysis.png)
 
 ## Key Insights
 
